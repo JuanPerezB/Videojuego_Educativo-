@@ -6,13 +6,12 @@ juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran, 
 resuelven problemas y superan obstáculos. 
 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE 
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión 
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE] 
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
-los jugadores conceptos clave de [MATERIA]. 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos 
-incluirán [TIPO DE DESAFÍOS] 
+El protagonista de esta aventura es Arithmo, un/a joven mago con una mente brillante y espíritu curioso.
+Arithmo es un/a aprendiz de mago que ha sido elegido/a para una misión única: restaurar el equilibrio del 
+Reino de Números resolviendo acertijos matemáticos. Con su sabiduría mágica y pasión por los números, Arithmo 
+deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de matemáticas.
+El jugador podrá resolver acertijos, para avanzar deberá recolectar objetos mágicos resolviendo ecuaciones y 
+los desafíos incluirán rompecabezas lógicos, preguntas rápidas y desafíos cronometrados.
 
 Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO 
 EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su 
